@@ -1,0 +1,22 @@
+body{
+    background-image: url("../images/pixels.webp");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    padding: 30px;
+}
+
+.test li{
+    display: inline;
+}
+.test a{
+    display: inline-block;
+    padding: 1em;
+    color: black;
+    text-decoration: none;
+    background-color: wheat;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+.test a:hover{
+    background-color:rgb(182, 165, 134);
+}
